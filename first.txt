@@ -1,2 +1,4 @@
 first line from dev branch
 second line from master branch
+second line from dev branch
+
