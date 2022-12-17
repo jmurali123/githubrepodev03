@@ -1,6 +1,6 @@
 first line from dev branch
 second line from master branch
-fi
+Rahul from venkat
 second line from dev branch
 after ssh
 
