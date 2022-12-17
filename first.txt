@@ -3,6 +3,6 @@ second line from master branch
 Rahul from venkat
 Sachin
 second line from dev branch
-after ssh
+after rebase conflict
 new line rebase
 
