@@ -6,3 +6,5 @@ second line from dev branch
 after rebase conflict remote dev change
 new line rebase
 
+
+fetch
